@@ -8,7 +8,7 @@ async function assignment(){
      )
      document.body.innerHTML = result.join('')
     }
-
+//   omo i must be a gaint in tech
     
 
 
